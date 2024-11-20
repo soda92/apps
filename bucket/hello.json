@@ -1,10 +1,11 @@
 {
     "##": "This file is a template. Fill the blanks and add or remove fields as necessary.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "my demo hello",
     "architecture": {
         "64bit": {
             "url": "https://gist.github.com/lukesampson/6446238/raw/hello.ps1",
+            "hash": "87de64f8d0391f83b95e4738494d2a565f05392735ffe297899b3c1d5492d7d0"
         },
     },
     "bin": "hello.ps1",

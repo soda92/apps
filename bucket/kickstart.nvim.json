@@ -1,0 +1,10 @@
+{
+    "##": "This file is a template. Fill the blanks and add or remove fields as necessary.",
+    "version": "0.1.0",
+    "description": "kickstart.nvim",
+    "homepage": "https://example.com",
+    "license": "MIT",
+    "installer": {
+        "script": "scoop install neovim ripgrep zig git"
+    }
+}
